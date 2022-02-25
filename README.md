@@ -12,3 +12,5 @@ The user can enter any city on the globe and the web app shows the current tempe
 
 ### URL for Web App
 https://kamsusasiteja.github.io/datasocjs/index.html
+
+![screen](/images/screen.PNG)
