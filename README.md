@@ -14,3 +14,7 @@ The user can enter any city on the globe and the web app shows the current tempe
 https://kamsusasiteja.github.io/datasocjs/index.html
 
 ![screen](/newimages/screen.PNG)
+
+![screen2](/newimages/screen2.PNG)
+
+![screen3](/newimages/screen3.PNG)
